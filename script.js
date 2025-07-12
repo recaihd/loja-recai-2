@@ -34,11 +34,11 @@
         beneficios: ["Aparece que você trancou (caso queira)"],
     },
     "Mute um membro": {
-        descricao: "Mute qualquer membro do servidor por 1 hora",
+        descricao: "Mute qualquer membro do servidor por 1 dia!",
         beneficios: ["não incluí staffers"],
     },
     "Demote um ADM": {
-        descricao: "Tire um adm do cargo por 1 hora!",
+        descricao: "Tire um adm do cargo por 1 dia!",
         beneficios: ["Válido para:", "AJUDANTE", "MODERADOR", "SUPERVISOR", "ADMINISTRADOR"],
     },
     "Expulse um membro": {
